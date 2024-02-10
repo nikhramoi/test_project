@@ -1,0 +1,10 @@
+#python
+venv/
+.pylintrc
+__pychche__/
+#ide
+.vscode
+.idea
+#django
+db.sqlite3
+media/
